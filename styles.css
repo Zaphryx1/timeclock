@@ -32,14 +32,10 @@ input {
 
     background-color: white;
     border-radius: 5px;
+    padding-bottom: 25px;
 
 }
 
-#history {
-
-    text-align: right;
-
-}
 
 #logo {
 
@@ -47,13 +43,14 @@ input {
     width: fit-content;
     border-radius: 10px;
 
+    margin-top: 20px;
+
 }
 
-#container {
+.container {
 
     border: 10px;
-    padding: 10px;
-    vertical-align: baseline;
+
 }
 
 
