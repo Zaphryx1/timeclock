@@ -3,16 +3,62 @@ body {
     background-color: #ff8200;
 }
 
-h1 {
-    color: white
+.mainbox {
+
+    background-color: blue;
+    margin: 150px;
+    padding: 10px;
+    border-radius: 5px;
+
 }
 
-.center {
-    max-width: 50%;
-    max-height: 50%;
-    flex: 50%;
-    margin: auto;
-    background-color: #041E42  ;
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin: 10px;
+    padding: 10px;
 }
+
+#textbox {
+
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+
+}
+
+#clockin {
+
+    display: flex;
+    margin: 5px;
+
+}
+
+#clockout {
+
+    display: flex;
+    margin: 5px;
+
+}
+
+#export {
+
+    display: flex;
+    margin: 5px;
+}
+
+#button {
+
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+
+}
+
+/* comeback and correct the colors */
+
+
 
 
