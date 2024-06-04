@@ -1,7 +1,18 @@
-button {
-    background-color: green;
+
+body {
+    background-color: #ff8200;
 }
 
-.red-button {
-    background-color: red;
+h1 {
+    color: white
 }
+
+.center {
+    max-width: 50%;
+    max-height: 50%;
+    flex: 50%;
+    margin: auto;
+    background-color: #041E42  ;
+}
+
+
